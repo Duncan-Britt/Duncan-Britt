@@ -6,7 +6,7 @@
 
 - 📫 You can reach me by email: dbru997 at g mail
 
-- <img src="https://www.codewars.com/users/Duncan-Britt/badges/small">
+- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://www.codewars.com/users/Duncan-Britt/badges/small"></a>
 
 <!---
 Duncan-Britt/Duncan-Britt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
