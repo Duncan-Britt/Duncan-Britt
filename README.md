@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Duncan Britt
 
-- 👀 I’m interested in programming, music, urban planning, architecture, and investing, among other things. I love to build, I love to read, and I'm excited to solve problems.
+- 👀 I’m interested in programming, music, and investing, among other things.
 
 - 🌱 I’m currently learning about the DOM and Asynchronous programming with JavaScript as I work my way through the [Launch School](https://launchschool.com/) core curriculum.
 
