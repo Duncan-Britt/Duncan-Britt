@@ -2,8 +2,6 @@
 
 - 👀 I’m interested in programming, music, and investing, among other things.
 
-- 🌱 I’m currently learning about the DOM and Asynchronous programming with JavaScript as I work my way through the [Launch School](https://launchschool.com/) core curriculum.
-
 - 📫 You can reach me by email: My initials + ru997 at gmail
 
 - <a href="https://www.codewars.com/users/Duncan-Britt"><img src="https://www.codewars.com/users/Duncan-Britt/badges/small"></a>
