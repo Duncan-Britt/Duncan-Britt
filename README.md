@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Duncan Britt
 
 - 📫 You can reach me by email: My initials + ru997 at gmail
-<!--
+
 - :briefcase: [See my website](https://duncanbritt.com)
--->
+
 - <a href="https://www.codewars.com/users/Duncan-Britt"><img src="https://www.codewars.com/users/Duncan-Britt/badges/small"></a>
 
 <!---
